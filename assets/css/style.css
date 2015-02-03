@@ -8468,10 +8468,11 @@ h3.title,
 h4.title,
 h5.title,
 h6.title {
-  color: #707070;
-  border-bottom-width: 1px;
-  border-bottom-width: 0.0625rem;
+color: #707070;
+   border-bottom-width: 0.0625rem; 
   border-bottom: solid #cccccc;
+  border-bottom-width: 1px;
+
 }
 h1 a,
 h2 a,
