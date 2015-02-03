@@ -8717,8 +8717,8 @@ hr.large {
   padding-bottom: 0.625rem;
   text-align: center;
   border-bottom: solid #cccccc;
-  border-bottom-width: 2px;
-  border-bottom-width: 0.125rem;
+  border-bottom-width: 1px;
+  border-bottom-width: 0.0625rem;
 }
 .header-name a,
 .header-name a:hover {
