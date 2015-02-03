@@ -8471,7 +8471,7 @@ h6.title {
   color: #707070;
   border-bottom-width: 1px;
   border-bottom-width: 0.0625rem;
-  border-bottom: solid #d7d7d7;
+  border-bottom: solid #ffffff;
 }
 h1 a,
 h2 a,
@@ -8716,7 +8716,7 @@ hr.large {
   padding-bottom: 10px;
   padding-bottom: 0.625rem;
   text-align: center;
-  border-bottom: solid #363636;
+  border-bottom: solid #cccccc;
   border-bottom-width: 2px;
   border-bottom-width: 0.125rem;
 }
